@@ -6,7 +6,7 @@
     "npm": "6.10.2"
   },
   "description": "",
-  "main": "index.js", 
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node dist"
