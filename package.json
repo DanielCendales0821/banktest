@@ -1,6 +1,10 @@
 {
   "name": "developmenttest",
   "version": "1.0.0",
+  "engines": {
+    "node": "12.9.0",
+    "npm": "6.10.2"
+  },
   "description": "",
   "main": "index.js",
   "scripts": {
